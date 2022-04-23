@@ -155,6 +155,10 @@ public class TC_1 extends base{
 			JsonPath Js=response.jsonPath();
 			fn=Js.get("firstname");
 			Assert.assertTrue(fn.equalsIgnoreCase("Sallyy")); */
+			
+	}
+	public void demo() {
+		System.out.println("Demo");
 	}
 	
 }
