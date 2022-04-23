@@ -1,0 +1,15 @@
+15:31:22.184 [main] INFO  Api_Testing.base - Auth response body {"token":"4cf1315e70a567f"}
+15:31:22.591 [main] INFO  Api_Testing.base - Auth status code 200
+15:31:26.080 [main] INFO  Api_Testing.base - Get response body [{"bookingid":34},{"bookingid":23},{"bookingid":10},{"bookingid":22},{"bookingid":28},{"bookingid":33},{"bookingid":42},{"bookingid":24},{"bookingid":35},{"bookingid":6},{"bookingid":14},{"bookingid":9},{"bookingid":15},{"bookingid":7},{"bookingid":4},{"bookingid":27},{"bookingid":37},{"bookingid":16},{"bookingid":1},{"bookingid":17},{"bookingid":39},{"bookingid":41},{"bookingid":18},{"bookingid":36},{"bookingid":29},{"bookingid":2},{"bookingid":3},{"bookingid":32},{"bookingid":20},{"bookingid":13},{"bookingid":26},{"bookingid":8},{"bookingid":40},{"bookingid":21},{"bookingid":25},{"bookingid":38},{"bookingid":12},{"bookingid":19},{"bookingid":5}]
+15:31:26.088 [main] INFO  Api_Testing.base - Get status code 200
+15:31:31.452 [main] INFO  Api_Testing.base - Get by ID  response body {"firstname":"Eric","lastname":"Jackson","totalprice":496,"depositpaid":false,"bookingdates":{"checkin":"2015-07-27","checkout":"2017-04-04"}}
+15:31:31.452 [main] INFO  Api_Testing.base - Get by ID status code 200
+15:31:33.044 [main] INFO  Api_Testing.base - Post response body {"bookingid":43,"booking":{"firstname":"channaveer","lastname":"murud","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}}
+15:31:33.054 [main] INFO  Api_Testing.base - Post status code 200
+15:31:34.636 [main] INFO  Api_Testing.base - Put response body {"firstname":"anu","lastname":"murud","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+15:31:34.636 [main] INFO  Api_Testing.base - Put status code 200
+15:31:37.533 [main] INFO  Api_Testing.base - Patch response body {"firstname":"James","lastname":"Brown","totalprice":111,"depositpaid":true,"bookingdates":{"checkin":"2018-01-01","checkout":"2019-01-01"},"additionalneeds":"Breakfast"}
+15:31:37.533 [main] INFO  Api_Testing.base - Patch status code 200
+15:31:39.936 [main] INFO  Api_Testing.base - Delete  response body Created
+15:31:39.937 [main] INFO  Api_Testing.base - Delete status code 201
+15:31:39.937 [main] INFO  Api_Testing.base - ------------------------The End------------------------

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="10" started-at="2022-04-02T06:27:36Z" finished-at="2022-04-02T06:27:36Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="10" started-at="2022-04-02T06:27:36Z" finished-at="2022-04-02T06:27:36Z">
+      <class name="demo.bikeloan">
+        <test-method status="PASS" signature="beforesuite()[pri:0, instance:demo.bikeloan@45f45fa1]" name="beforesuite" is-config="true" duration-ms="7" started-at="2022-04-02T11:57:36Z" finished-at="2022-04-02T11:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforesuite -->
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:demo.bikeloan@45f45fa1]" name="beforetest" is-config="true" duration-ms="0" started-at="2022-04-02T11:57:36Z" finished-at="2022-04-02T11:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="bikeseleiumtesting()[pri:0, instance:demo.bikeloan@45f45fa1]" name="bikeseleiumtesting" duration-ms="0" started-at="2022-04-02T11:57:36Z" finished-at="2022-04-02T11:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bikeseleiumtesting -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:demo.bikeloan@45f45fa1]" name="aftertest" is-config="true" duration-ms="0" started-at="2022-04-02T11:57:36Z" finished-at="2022-04-02T11:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+        <test-method status="PASS" signature="aftersuite()[pri:0, instance:demo.bikeloan@45f45fa1]" name="aftersuite" is-config="true" duration-ms="0" started-at="2022-04-02T11:57:36Z" finished-at="2022-04-02T11:57:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftersuite -->
+      </class> <!-- demo.bikeloan -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
